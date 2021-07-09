@@ -1,0 +1,15 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "To demonstrate the default behavior of private npm registries and proxies go ahead and run the following:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superlaser": "^1.0.0"
+  }
+}

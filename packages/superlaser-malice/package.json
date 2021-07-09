@@ -1,0 +1,15 @@
+{
+  "name": "superlaser",
+  "version": "1.99999.9999",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo '\n\n ===> Your Feeble Skills Are No Match For The Power Of The Dark Side <=== \n\n'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
