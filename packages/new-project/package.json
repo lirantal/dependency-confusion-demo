@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "death-star-secret-hyper-matter-reactor": "^1.0.0",
     "superlaser": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
