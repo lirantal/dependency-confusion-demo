@@ -32,3 +32,7 @@ npm publish --registry http://0.0.0.0:4873
 Install this package in a project. You get that 1.0.0 version. Great.
 
 Now, push a package of the same name to npmjs, with a higher version range: 1.999.99. Then install the package in a new project. What happens?
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
