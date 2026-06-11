@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "the-death-star",
   "version": "1.0.0",
   "description": "",
@@ -17,5 +13,9 @@
   "dependencies": {
     "debug": "^4.3.2",
     "superlaser": "^1.0.0"
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
